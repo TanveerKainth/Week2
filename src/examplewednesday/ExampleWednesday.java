@@ -19,6 +19,7 @@ public class ExampleWednesday {
         System.out.println("Learning push");
          System.out.println("Second");
          System.out.println("Second");
+        System.out.println("Pull");
     }
     
 }
