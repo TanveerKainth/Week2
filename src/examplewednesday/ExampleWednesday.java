@@ -21,7 +21,7 @@ public class ExampleWednesday {
          System.out.println("Second");
         System.out.println("Pull");
          System.out.println("Fetch");
-         //this is my branch
+         //this is my branch edited in remote
     }
     
 }
