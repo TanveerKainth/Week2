@@ -20,6 +20,7 @@ public class ExampleWednesday {
          System.out.println("Second");
          System.out.println("Second");
         System.out.println("Pull");
+         System.out.println("Fetch");
     }
     
 }
