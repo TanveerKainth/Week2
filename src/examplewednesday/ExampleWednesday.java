@@ -18,6 +18,7 @@ public class ExampleWednesday {
         // TODO code application logic here
         System.out.println("Learning push");
          System.out.println("Second");
+         System.out.println("Second");
     }
     
 }
